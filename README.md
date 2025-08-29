@@ -82,7 +82,7 @@ The application delivers a smart threat detection system for the client’s busi
 - Set the server to monitor specific directories or system events.
 - Define output channels to forward logs to the Agentic AI pipeline (named pipes).
 
- ##Start MCP Server as a Service:
+ ## Start MCP Server as a Service:
   
 - Open Services (services.msc) and locate MCP Server.
 - Set startup type to Automatic and start the service.
