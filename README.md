@@ -36,7 +36,7 @@ The application delivers a smart threat detection system for the client’s busi
 
 - Real-time alerts and isolation protocols reduce ransomware spread by 89% within the first 60 seconds, minimizing damage and downtime.
 
-# Installation
+# Installation:
 
 ## Prerequistes:
 
