@@ -43,6 +43,8 @@ The application delivers a smart threat detection system for the client’s busi
 - Python
 - C++
 - Machine Learning
+- Node JS
+- JSON
 - Matplotlib
 - RS256 Assymetric Encryption
 - Agentic AI
