@@ -2,7 +2,7 @@
 
 ## Objective:
 
-The application delivers a smart threat detection system for the client’s businesses by using C++ to monitor the file system changes in real time, by processing over 50,000 events per minute with minimal CPU usage. The suspicious activity is log locally or sent to a Python engine via named pipes, enabling efficient communication under 10ms latency. Python applies machine learning trained on 15,000+ threat events, achieving 96.3% accuracy and under 3.1% false positives. The RS256 asymmetric encryption secures a data of the client’s business with 30-day key rotation. The Agentic AI generates adaptive detection algorithms and translates reports from English to French with 99.8% accuracy, enabling cybersecurity teams to isolate attacks in real time and reduce ransomware spread by 89% within 60 seconds of the client business.
+The application delivers a smart threat detection system for the client business by using C++ to monitor the file system changes in real time, by processing over 50,000 events per minute with minimal CPU usage. The suspicious activity is log locally or sent to a Python engine via named pipes, enabling efficient communication under 10ms latency. Python applies machine learning trained on 15,000+ threat events, achieving 96.3% accuracy and under 3.1% false positives. The RS256 asymmetric encryption secures the data of the client business. The Agentic AI generates adaptive detection algorithms and translates reports from English to French with 99.8% accuracy, enabling the cybersecurity team to isolate the attacks in real time and reduce the ransomware spread by 89% within 60 seconds of the client business.
 
 # Video of the Project:
 
@@ -22,7 +22,7 @@ The application delivers a smart threat detection system for the client’s busi
 
 ## Enterprise-Grade Encryption:
 
-- RS256 asymmetric encryption with 30-day key rotation, compliant with NIST SP 800-57, protects data integrity and client confidentiality.
+- RS256 asymmetric encryption use to secure and protect the confidential data of the client business, ensuring integrity and confidentiality through robust public-key cryptography.
 
 ## Agentic AI Intelligence:
 
