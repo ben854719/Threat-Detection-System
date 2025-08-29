@@ -73,7 +73,7 @@ The application delivers a smart threat detection system for the client business
 
 - Right-click the installer and select “Run as administrator” to ensure proper permissions.
 - Follow the installation wizard prompts to complete setup.
-- 
+  
 ## Configure MCP Server:
 
 - Set the server to monitor specific directories or system events.
