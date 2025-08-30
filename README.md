@@ -68,7 +68,7 @@ The application delivers a smart threat detection system for the client business
 
 - Receive incoming reports
 - Trigger LangGraph flow
-- Store or forward translated output##
+- Store or forward translated output
 
 ## Run the Flow:
 
