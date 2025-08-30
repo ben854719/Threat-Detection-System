@@ -62,28 +62,7 @@ The application delivers a smart threat detection system for the client business
 - Gemini Translation Output – Use Gemini API to translate English threat reports to French.
 - Language Detection – Automatically identify the source language for routing and fallback handling.
   
-## MCP Server Installation (Windows):
 
-## Download MCP Server Installer:
-
-- Visit the official MCP Server repository or distribution site.
-- Download the Windows installer (.exe or .msi format).
-
-## Run Installer as Administrator:
-
-- Right-click the installer and select “Run as administrator” to ensure proper permissions.
-- Follow the installation wizard prompts to complete setup.
-  
-## Configure MCP Server:
-
-- Set the server to monitor specific directories or system events.
-- Define output channels to forward logs to the Agentic AI pipeline (named pipes).
-
- ## Start MCP Server as a Service:
-  
-- Open Services (services.msc) and locate MCP Server.
-- Set startup type to Automatic and start the service.
-- Confirm it's running in the background and logging events as expected.
 
 
 
