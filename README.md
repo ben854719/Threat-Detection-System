@@ -61,9 +61,18 @@ The application delivers a smart threat detection system for the client business
 - Input Normalization – Preprocess incoming text for consistency and clarity.
 - Gemini Translation Output – Use Gemini API to translate English threat reports to French.
 - Language Detection – Automatically identify the source language for routing and fallback handling.
-  
 
+## Integrate with MCP Server:
 
+## Ensure MCP can:
+
+- Receive incoming reports
+- Trigger LangGraph flow
+- Store or forward translated output##
+
+## Run the Flow:
+
+- Normalize → Detect → Translate (if English) → Fallback (if needed) → Output
 
 
 
