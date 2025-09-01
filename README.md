@@ -43,7 +43,7 @@ The application delivers a smart threat detection system for the client business
 - RS256 Assymetric Encryption
 - Sklearn
 - RainforestClassifer
-- Name Pipe
+- Named Pipe Server
 - Joblib
 - Agentic AI
 - LanGraph
