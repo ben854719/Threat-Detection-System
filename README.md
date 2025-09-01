@@ -41,6 +41,10 @@ The application delivers a smart threat detection system for the client business
 - Machine Learning
 - Crytography
 - RS256 Assymetric Encryption
+- Sklearn
+- RainforestClassifer
+- Name Pipe
+- Joblib
 - Agentic AI
 - LanGraph
 - Gemini
