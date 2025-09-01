@@ -40,7 +40,6 @@ The application delivers a smart threat detection system for the client business
 - C++
 - Machine Learning
 - Crytography
-- JSON
 - RS256 Assymetric Encryption
 - Agentic AI
 - LanGraph
