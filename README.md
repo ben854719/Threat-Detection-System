@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/84737a52-8a3f-4b7d-83b5-adfb8b72c929
 
 - Python
 - C++
-- Machine Learning
+- Machine Learning Algorithm
 - Crytography
 - RS256 Assymetric Encryption
 - Sklearn
