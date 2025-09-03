@@ -6,6 +6,8 @@ The application delivers a smart threat detection system for the client business
 
 # Video of the Project:
 
+https://github.com/user-attachments/assets/84737a52-8a3f-4b7d-83b5-adfb8b72c929
+
 # Key Features:
 
 ## Real-Time File System Monitoring:
